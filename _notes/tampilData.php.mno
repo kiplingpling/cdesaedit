@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_qtampilData" value="name:id;datatype:int,name:no;datatype:string,name:namapemilik;datatype:string,name:name;datatype:blob,name:keterangan;datatype:blob" />
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:no;datatype:string,name:namapemilik;datatype:string,name:name;datatype:blob,name:keterangan;datatype:blob" />
+	<infoitem key="UD_tampil" value="name:id;datatype:int,name:no;datatype:string,name:namapemilik;datatype:string,name:name;datatype:blob,name:keterangan;datatype:blob" />
+	<infoitem key="UD_cari" value="name:id;datatype:int,name:no;datatype:string,name:namapemilik;datatype:string,name:name;datatype:blob,name:keterangan;datatype:blob" />
+</info>

@@ -1,0 +1,105 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: #EFEFEF;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+#navmenu {
+	height: 614px;
+	width: 240px;
+	background-attachment: fixed;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	background-image: url(../img/apptemplate/navmenu.png);
+	background-repeat: repeat;
+}
+#navmenu #adminprofil {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: 235px;
+	width: 240px;
+}
+#headwrap1        {
+	background-color: #999;
+	height: 4px;
+	width: 100%;
+}
+#headwrap2        {
+	background-color: #009AC0;
+	height: 4px;
+	width: 100%;
+}
+
+#conten-wrapper {
+	padding: 0px;
+	float: left;
+	height: 600px;
+	width: 1050px;
+	font-size: 9px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+}
+#conten-wrapper table tr td table tr td .h1 .headingchild {
+	font-family: Calibri;
+	font-size: 16px;
+	color: #333;
+}
+
+.Heading {
+	font-family: Calibri;
+	font-size: 36px;
+	font-style: normal;
+	color: #333;
+}
+.headingchild {
+	font-family: Calibri;
+	font-size: 18px;
+	color: #333;
+}
+#navmenu #adminprofil table tr td {
+	font-family: Calibri;
+	font-size: 24px;
+	color: #EEEDED;
+}
+#login-wrapper {
+	background-color: #FFF;
+	height: 300px;
+	width: 400px;
+	margin-top: 100px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+#login-wrapper #logo {
+	background-image: url(../img/apptemplate/logo.jpg);
+	background-repeat: no-repeat;
+	margin: auto;
+	height: 50px;
+	width: 240px;
+}
+ #loading {
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 100;
+      width: 100vw;
+      height: 100vh;
+      background-color: rgba(192, 192, 192, 0.5);
+      background-image: url("../img/apptemplate/loader.gif");
+      background-repeat: no-repeat;
+      background-position: center;
+ }
+#conten-wrapper table tr td table tr td .headingchild {
+	color: #000;
+}
+#conten-wrapper table tr td table tr .headingchild #form3 tr td table tr .headingchild {
+	color: #FFF;
+}

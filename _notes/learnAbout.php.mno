@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:idreg;datatype:int,name:namadesa;datatype:string,name:kodedesa;datatype:string,name:provinsi;datatype:string,name:kabupaten;datatype:string,name:kecamatan;datatype:string,name:jalan;datatype:string,name:kodepos;datatype:string,name:telp;datatype:string,name:email;datatype:string,name:namakades;datatype:string,name:jmlcdesa;datatype:int,name:no;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+.easyPaginateNav {clear:both;margin:10px 0}
+.easyPaginateNav a {padding:2px 5px;margin:0 2px;color:#006699;background:#fff;border:1px solid #277bcb;text-decoration:none}
+.easyPaginateNav a:hover, .easyPaginateNav a.current {background:#277BCB;color:#fff}
+.easyPaginateNav a.disabled, .easyPaginateNav a.disabled:hover {border:1px solid #ccc;color:#ccc;background:#fff}
